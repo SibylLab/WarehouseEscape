@@ -1,2 +1,2 @@
 # WarehouseEscape
-A mobile game to teach serach and sort algorithms
+Warehouse Escape is a mobile game to teach search and sort algorithms. It is Xamarin form application which is a cross plateform technology for iOs and Andriod. It has a user interface in XAML and the architecture is Model-View-ViewModel (MVVM).
