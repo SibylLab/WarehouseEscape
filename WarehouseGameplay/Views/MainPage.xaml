@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="WarehouseGameplay.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:WarehouseGameplay.Controls"
+    xmlns:viewModels="clr-namespace:WarehouseGameplay.ViewModels"
+    xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+    BackgroundColor="{StaticResource Background}"
+    BackgroundImageSource="PlayBackImage.jpg"
+    NavigationPage.HasNavigationBar="False">
+
+    <Grid RowDefinitions="100,*">
+        <StackLayout Margin="0,40,0,0">
+            <ImageButton 
+                            Grid.Row="0"
+                            Aspect="AspectFill"
+                            BackgroundColor="{StaticResource Accent}"
+                            CornerRadius="50"
+                            HeightRequest="100"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            Source="logo.png"
+                            WidthRequest="100" />
+            <Label HorizontalOptions="Center" Text="A Game To Learn Algorithms" CharacterSpacing="0" FlowDirection="LeftToRight" MaxLines="2" TextTransform="Default" Style="{StaticResource PageHeader}"/>
+
+        </StackLayout>
+        
+        <StackLayout Grid.Row="1" BackgroundColor="Transparent" Spacing="10" VerticalOptions="Center">
+          
+            <Frame HeightRequest="60"
+                    Grid.Column="1"
+                    Margin="20,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                <Frame.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#ffde00" />
+                        <GradientStop Color="#ac82fa" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <Button Text="learning" Command="{Binding NaveGateToPlayLearnPageCommand}" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+            </Frame>
+            <Frame HeightRequest="60"
+                    Grid.Column="1"
+                    Margin="40,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                <Frame.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#ffde00" />
+                        <GradientStop Color="#ff5500" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <Button Text="Play Game" Command="{Binding NaveGateToPlayGameMainPageCommand}" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+            </Frame>
+            <Frame HeightRequest="60"
+                    Grid.Column="1"
+                    Margin="50,0"
+                    Padding="0"
+                    HasShadow="False"
+                    CornerRadius="16">
+                <Frame.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#ff5500" />
+                        <GradientStop Color="#ac82fa" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <Button Text="Exit" x:Name="ExitButton" Clicked="ExitButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+            </Frame>
+            <Frame HeightRequest="60"
+                    Grid.Column="1"
+                    Margin="60,0"
+                    Padding="0"
+                    HasShadow="False"
+                    CornerRadius="16">
+                <Frame.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#ac82fa" />
+                        <GradientStop Color="#7a005c" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <Button Text="help" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+            </Frame>
+        </StackLayout>
+
+    <BoxView
+            x:Name="FadeBox"
+            Grid.RowSpan="2"
+            InputTransparent="True"
+            Opacity="0"
+            Color="Black" />
+    </Grid>
+</ContentPage>

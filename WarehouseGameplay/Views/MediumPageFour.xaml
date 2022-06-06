@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Medium Mode"
+             NavigationPage.HasBackButton="False"
+             x:Class="WarehouseGameplay.Views.MediumModePageFour">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Help" x:Name="HelpButton" Clicked="HelpButton_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <Grid RowDefinitions="*">
+            <ScrollView Grid.Row="0" HorizontalScrollBarVisibility="Never" VerticalScrollBarVisibility="Never">
+                <Grid RowDefinitions="Auto,Auto,Auto,*">
+                    <Frame Grid.Row="0" Margin="8,5,8,0" CornerRadius="5">
+                        <Label  FontAttributes="Bold" Style="{StaticResource SectionDetail}" FontSize="14">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Sort the list carefully with the sort that have minimum number of comparisons and then search item number "/>
+                                    <Span Text=" No# "/>
+                                    <Span x:Name="lblPrice" FontAttributes="Bold" TextColor="Green"/>
+                                    
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                    </Frame>
+                    <Grid Grid.Row="1" HorizontalOptions="Center" Padding="0,10,0,0" ColumnDefinitions="80,80,80,80" ColumnSpacing="5" RowSpacing="5" RowDefinitions="Auto,Auto,Auto">
+                        <Frame x:Name="Frame_1" Grid.Column="0" Padding="0" CornerRadius="16" Grid.Row="0" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="0" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex1" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_2"  Grid.Column="1" Padding="0" CornerRadius="16" Grid.Row="0" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="0" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex2" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image  Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_3"  Grid.Column="2" Padding="0" CornerRadius="16" Grid.Row="0" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="0" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex3" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_4"  Grid.Column="3" Padding="0" CornerRadius="16" Grid.Row="0" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="0" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex4" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_5"  Grid.Column="0" Padding="0" CornerRadius="16" Grid.Row="1" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="1" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex5" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_6"  Grid.Column="1" Padding="0" CornerRadius="16" Grid.Row="1" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="1" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex6" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_7"  Grid.Column="2" Padding="0" CornerRadius="16" Grid.Row="1" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="1" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex7" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                        <Frame x:Name="Frame_8" Grid.Column="3" Padding="0" CornerRadius="16" Grid.Row="1" BackgroundColor="LightBlue" HasShadow="True" HeightRequest="70" WidthRequest="70">
+                            <Grid Margin="0" RowSpacing="1" RowDefinitions="50,15">
+                                <Label TextColor="Black" FontAttributes="Bold" Grid.Row="1" HorizontalOptions="CenterAndExpand">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span  Text="Item#"/>
+                                            <Span x:Name="PriceIndex8" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Image Grid.Row="0" Source="BookImage.png" Margin="0"/>
+                            </Grid>
+                        </Frame>
+                    </Grid>
+                    <StackLayout   Grid.Row="2" Orientation="Horizontal" HeightRequest="50" Margin="10,0">
+                        <Picker Title="Select a Sort"  VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  x:Name="SortPicker" WidthRequest="160" HorizontalOptions="CenterAndExpand" SelectedIndexChanged="Sorting_Clicked" BackgroundColor="LightPink"/>
+                        <Picker Title="Select a Search" x:Name="SearchPicker" WidthRequest="160" HorizontalOptions="CenterAndExpand" SelectedIndexChanged="Searching_Clicked" BackgroundColor="HotPink"/>
+                    </StackLayout>
+                    <StackLayout  Grid.Row="3" Margin="5"  >
+                        <Grid RowDefinitions="Auto,*" HorizontalOptions="CenterAndExpand">
+                            <StackLayout Grid.Row="0" Orientation="Vertical" Margin="8">
+                                <Label >
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Output Result:     " Style="{StaticResource PageHeader}" TextColor="Black"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </StackLayout>
+                            <Frame Grid.Row="1" CornerRadius="16" Margin="10">
+                                <StackLayout Orientation="Vertical">
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="List of item:" FontAttributes="Bold"/>
+                                                <Span Text=""/>
+                                                <Span x:Name="lblUnsortedList"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Selected Sort:" FontAttributes="Bold"/>
+                                                <Span Text="     "/>
+                                                <Span x:Name="lblSelectedSort"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Selected Search:" FontAttributes="Bold"/>
+                                                <Span Text="     "/>
+                                                <Span x:Name="lblSelectedSearch"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text=" Selected sort number of compare:" FontAttributes="Bold"/>
+                                                <Span Text="     "/>
+                                                <Span x:Name="lblNumberOfComare"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Result Info:" FontAttributes="Bold"/>
+                                                <Span Text="     "/>
+                                                <Span x:Name="lblResulInfo"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span TextColor="Green" Text="Sort Name" FontAttributes="Bold"/>
+                                                <Span Text="                       "/>
+                                                <Span TextColor="Green" Text="Number of compare" FontAttributes="Bold"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Inersion Sort" FontAttributes="Bold"/>
+                                                <Span Text="                    "/>
+                                                <Span x:Name="lblInsertionCompare"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Selection Sort" FontAttributes="Bold"/>
+                                                <Span Text="                  "/>
+                                                <Span x:Name="lblSelectioCompare"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span x:Name="lblQSort" Text="Quick Sort" FontAttributes="Bold"/>
+                                                <Span Text="                        "/>
+                                                <Span x:Name="lblQuickCompare"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Merge Sort" FontAttributes="Bold"/>
+                                                <Span Text="                      "/>
+                                                <Span x:Name="lblMergeCompare"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+                    </StackLayout>
+                </Grid>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

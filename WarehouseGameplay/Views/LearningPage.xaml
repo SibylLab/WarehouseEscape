@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundImageSource="PlayBackImage.jpg"
+             x:Class="WarehouseGameplay.Views.LearningPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="70,*" RowSpacing="0">
+            <StackLayout Grid.Row="0" BackgroundColor="Transparent">
+                <Grid ColumnDefinitions="Auto,Auto">
+                    <Label Margin="5,15,0,0" Grid.Column="1" HorizontalOptions="End" Text="Start Learning" CharacterSpacing="3" FlowDirection="LeftToRight" MaxLines="1" TextTransform="Default" Style="{StaticResource OnboardingHeader}"/>
+                    <ImageButton
+                            Grid.Column="0"
+                            Margin="10,15,0,0"
+                            BackgroundColor="{StaticResource Accent}"
+                            CornerRadius="16"
+                            HeightRequest="45"
+                             x:Name="ButtonClose"
+                            Clicked="ButtonClose_Clicked"
+                            HorizontalOptions="End"
+                            Source="LeftArrowImage.png"
+                            VerticalOptions="Center"
+                            WidthRequest="45" />
+                </Grid>
+            </StackLayout>
+            <StackLayout VerticalOptions="CenterAndExpand" Grid.Row="1" Spacing="10">
+                <Frame HeightRequest="60"
+                    Margin="100,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#862d23" />
+                            <GradientStop Color="#ac82fa" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Linear Search" x:Name="LinearSearhButton" Clicked="LinearSearhButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+                <Frame HeightRequest="60"
+                    Margin="75,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#097f8c" />
+                            <GradientStop Color="#ac82fa" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Binary Search" x:Name="BinarySearhButton" Clicked="BinarySearhButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+                <Frame HeightRequest="60"
+                    Margin="65,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#ffde00" />
+                            <GradientStop Color="#0057e7" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Insertion Sort" x:Name="InsertionSortButton" Clicked="InsertionSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+
+                <Frame HeightRequest="60"
+                    Margin="60,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#ff77ff" />
+                            <GradientStop Color="#a8e6cf" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Selection Sort" x:Name="SelectionSorButton" Clicked="SelectionSorButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+                <Frame HeightRequest="60"
+                    Margin="40,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#4b6375" />
+                            <GradientStop Color="#ac82fa" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Quick Sort" x:Name="QuickSortButton" Clicked="QuickSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+
+                <Frame HeightRequest="60"
+                    Margin="20,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#cec6f7" />
+                            <GradientStop Color="#ac82fa" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Merge Sort" x:Name="MergeSortButton" Clicked="MergeSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

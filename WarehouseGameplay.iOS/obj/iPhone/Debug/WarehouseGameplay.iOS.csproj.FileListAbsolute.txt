@@ -1,0 +1,232 @@
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.exe
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MagicGradients.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\optimized\
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csprojAssemblyReference.cache
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CoreCompileInputs.cache
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CopyComplete
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.exe
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.exe
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MagicGradients.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.AssemblyReference.cache
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CopyComplete
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.exe
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.exe
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.iOS.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MagicGradients.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.Abstractions.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Plugin.Toast.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\MvvmHelpers.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\bin\iPhone\Debug\WarehouseGameplay.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\optimized\
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.AssemblyReference.cache
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CoreCompileInputs.cache
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.csproj.CopyComplete
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.exe
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay.iOS\obj\iPhone\Debug\WarehouseGameplay.iOS.pdb

@@ -1,0 +1,131 @@
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.deps.json
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\ref\WarehouseGameplay.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchLearnigPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\insertionsortLearningPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LearningPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchLearningPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergesortLearnigPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergeSortQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergrSortPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\OnboardingPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PlayGameMainPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PopUpMessageBox.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuicksortLearnigPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortingPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortLearningPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortQuizPage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfoInputs.cache
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfo.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.CoreCompileInputs.cache
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\XamlC.stamp
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\ref\WarehouseGameplay.dll
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.pdb
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.AssemblyReference.cache
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.GeneratedMSBuildEditorConfig.editorconfig
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePage.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageFour.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageThree.xaml.g.cs
+F:\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageTwo.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.deps.json
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\ref\WarehouseGameplay.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.pdb
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.AssemblyReference.cache
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchLearnigPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageFour.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageThree.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageTwo.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\insertionsortLearningPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LearningPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchLearningPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumModePageOne.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumModePageTwo.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumPageFour.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumPageThree.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergesortLearnigPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergeSortQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergrSortPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\OnboardingPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PlayGameMainPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PopUpMessageBox.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuicksortLearnigPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortingPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortLearningPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortQuizPage.xaml.g.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfoInputs.cache
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfo.cs
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.CoreCompileInputs.cache
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\ref\WarehouseGameplay.dll
+C:\Users\Al Faisal Computers\Desktop\WarehouseGameplay\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.deps.json
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\ref\WarehouseGameplay.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\bin\Release\netstandard2.0\WarehouseGameplay.pdb
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.AssemblyReference.cache
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchLearnigPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\BinarySearchQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageFour.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageThree.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\EasyModePageTwo.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\insertionsortLearningPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\InsertionSortQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LearningPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchLearningPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\LinearSearchQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumModePageOne.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumModePageTwo.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumPageFour.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MediumPageThree.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergesortLearnigPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergeSortQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\MergrSortPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\OnboardingPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PlayGameMainPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\PopUpMessageBox.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuicksortLearnigPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\QuickSortQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortingPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortLearningPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\Views\SelectionSortQuizPage.xaml.g.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfoInputs.cache
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.AssemblyInfo.cs
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.csproj.CoreCompileInputs.cache
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\ref\WarehouseGameplay.dll
+C:\Users\aanyug\Downloads\final version\WarehouseGameplay-main\WarehouseGameplay\WarehouseGameplay\obj\Release\netstandard2.0\WarehouseGameplay.pdb

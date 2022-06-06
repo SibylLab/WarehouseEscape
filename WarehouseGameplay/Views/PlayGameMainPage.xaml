@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:magic="clr-namespace:MagicGradients;assembly=MagicGradients"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundImageSource="PlayBackImage.jpg"
+             x:Class="WarehouseGameplay.Views.PlayGameMainPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto,*" RowSpacing="0">
+            <StackLayout Grid.Row="0">
+                <Grid ColumnDefinitions="Auto,Auto">
+                    <Label Margin="20,15,0,0" Grid.Column="1" HorizontalOptions="End" Text="Let's Start Playing" CharacterSpacing="1" FlowDirection="LeftToRight" MaxLines="1" TextTransform="Default" Style="{StaticResource OnboardingHeader}" FontSize="27"/>
+                    <ImageButton
+                            Grid.Column="0"
+                            Margin="10,15,0,0"
+                            BackgroundColor="{StaticResource Accent}"
+                            CornerRadius="16"
+                            HeightRequest="45"
+                             x:Name="ButtonClose"
+                            Clicked="ButtonClose_Clicked"
+                            HorizontalOptions="End"
+                            Source="LeftArrowImage.png"
+                            VerticalOptions="Center"
+                            WidthRequest="45" />
+                </Grid>
+            </StackLayout>
+            <StackLayout  VerticalOptions="CenterAndExpand" Grid.Row="1" Spacing="6">
+                <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission One" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                <Frame HeightRequest="60"
+                    Margin="90,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                        <Frame.Background>
+                            <LinearGradientBrush>
+                            <GradientStop Color="#862d23" />
+                                <GradientStop Color="#ac82fa" />
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                    <Button Text="Linear Search" x:Name="LinearSearchButton" Clicked="LinearSearchButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                    </Frame>
+                <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission Two "  Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                                <Span x:Name="lblMissionTwo" Text="🔒" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                <Frame HeightRequest="60"
+                    Margin="80,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#cec6f7" />
+                            <GradientStop Color="#ac82fa" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Binary Search" x:Name="BinarySearchButton" Clicked="BinarySearchButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+                <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission Three " Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                                <Span x:Name="lblMissionThree" Text="🔒" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                <Frame HeightRequest="60"
+                    Margin="70,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                        <Frame.Background>
+                            <LinearGradientBrush>
+                            <GradientStop Color="#097f8c" />
+                                <GradientStop Color="#ac82fa" />
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                    <Button Text="InsertionSort" x:Name="InsertionSortButton" Clicked="InsertionSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                    </Frame>
+                   <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission Four " Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                                <Span x:Name="lblMissionFour" Text="🔒" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                    <Frame HeightRequest="60"
+                    Margin="60,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                        <Frame.Background>
+                            <LinearGradientBrush>
+                            <GradientStop Color="#ff77ff" />
+                            <GradientStop Color="#a8e6cf" />
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                    <Button Text="Selection Sort" x:Name="SelectionSortButton" Clicked="SelectionSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                    </Frame>
+                <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission Five " Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                                <Span x:Name="lblMissionFive" Text="🔒" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                    <Frame HeightRequest="60"
+                    Margin="40,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                        <Frame.Background>
+                            <LinearGradientBrush>
+                            <GradientStop Color="#4b6375" />
+                                <GradientStop Color="#ac82fa" />
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                    <Button Text="Quick Sort" x:Name="QuickSortButton" Clicked="QuickSortButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                    </Frame>
+                <StackLayout>
+                    <Label HorizontalOptions="CenterAndExpand">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Mission six  " Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                                <Span x:Name="lblMissionSix" Text="🔒" Style="{StaticResource SectionHeader}" TextColor="Yellow" FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+                <Frame HeightRequest="60"
+                    Margin="20,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#ffde00" />
+                            <GradientStop Color="#0057e7" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Mergesort" x:Name="MergeSorButton" Clicked="MergeSorButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+                <Frame HeightRequest="60"
+                    Margin="10,0"
+                    Padding="0"
+                     HasShadow="False"
+                    CornerRadius="16">
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#ffde00" />
+                            <GradientStop Color="Purple" />
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                    <Button Text="Easy Mode" x:Name="RoboVsPlayerButton" Clicked="RoboVsPlayerButton_Clicked" FontSize="Medium" FontAttributes="Bold"  BackgroundColor="Transparent"  Style="{StaticResource SubHeader}"/>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:WarehouseGameplay.ViewModels"
+             NavigationPage.HasNavigationBar="True"
+             Title="Merge Sort"
+             x:Class="WarehouseGameplay.Views.MergeSortQuizPage">
+    <ContentPage.BindingContext>
+        <ViewModels:MergeSortQuestionViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowDefinitions="Auto,*,Auto" RowSpacing="5">
+            
+            <Frame Grid.Row="0" HorizontalOptions="Center" Margin="10,30,10,0" CornerRadius="10">
+                <Label x:Name="lblQuestion"
+                       FontAttributes="Bold"
+                       TextColor="Black"
+                       Style="{StaticResource PageSubHeader}"
+                       Text="{Binding Question}" />
+            </Frame>
+            <StackLayout  Grid.Row="1"  Margin="20" VerticalOptions="CenterAndExpand">
+                <ActivityIndicator x:Name="aiLoading"
+                               HeightRequest="100"
+                               WidthRequest="100"    
+                               IsRunning="{Binding IsLoading}"
+                               IsVisible="{Binding IsLoading}"
+                               Color="Blue" />
+                <StackLayout x:Name="slQuestion" IsVisible="true" Spacing="20">
+                    <Frame BackgroundColor="#b3d9e5" CornerRadius="16">
+                        <Button x:Name="btnAnswerOne" BackgroundColor="#d9e7e2" CornerRadius="10" Text="{Binding Answer1}" IsEnabled="{Binding Answer1Enabled}" />
+                    </Frame>
+                    <Frame BackgroundColor="#b3d9e5" CornerRadius="16">
+                        <Button x:Name="btnAnswerTwo" Text="{Binding Answer2}" 
+				    IsEnabled="{Binding Answer2Enabled}" BackgroundColor="#d9e7e2" CornerRadius="10" />
+                    </Frame>
+                    <Frame BackgroundColor="#b3d9e5" CornerRadius="16">
+                        <Button x:Name="btnAnswerThree" Text="{Binding Answer3}" 
+				    IsEnabled="{Binding Answer3Enabled}" BackgroundColor="#d9e7e2" CornerRadius="10"  />
+                    </Frame>
+                   
+                </StackLayout>
+            </StackLayout>
+            <Frame Grid.Row="2" CornerRadius="16"   HeightRequest="50" Margin="10,20,10,50">
+                <Label x:Name="lblMessage"
+                       Style="{StaticResource OnboardingContent}"
+                       Text="{Binding Message}" />
+            </Frame>
+        </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

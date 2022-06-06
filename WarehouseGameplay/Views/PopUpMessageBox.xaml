@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                 xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                 xmlns:animations="http://rotorgames.com"
+                 x:Class="WarehouseGameplay.Views.PopUpMessageBox">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation DurationIn="400"
+                                   DurationOut="300"
+                                   EasingIn="SinOut"
+                                   EasingOut="SinIn"
+                                   HasBackgroundAnimation="True"
+                                   PositionIn="Center"
+                                   PositionOut="Center"
+                                   ScaleIn="1.2"
+                                   ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <StackLayout  Margin="15" Padding="24" HorizontalOptions="Center" VerticalOptions="Center">
+        <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="CloseButton_Clicked"/>
+        </StackLayout.GestureRecognizers>
+        <Frame
+                 CornerRadius="16"
+                 BackgroundColor="WhiteSmoke"
+                 HorizontalOptions="Center"
+                 VerticalOptions="Center">
+            <StackLayout BackgroundColor="Transparent" Spacing="0">
+                <Image x:Name="ImgBacgroundPopUp" Aspect="AspectFill"/>
+                <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="0">
+                    <Label Margin="0,5,0,0" x:Name="lblMessageText" Style="{StaticResource SectionDetail}" HorizontalOptions="Center" VerticalOptions="Center"/>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</pages:PopupPage>
